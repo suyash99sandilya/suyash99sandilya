@@ -1,6 +1,6 @@
 # 🌟Hey! Welcome to My Profile!
 
-### 👋 I’m **Suyash Sandilya**, an enthusiastic **Data Scientist** and **Generative AI Developer**.  
+### 👋 I'm **Suyash Sandilya**, an enthusiastic **Data Scientist** and **Generative AI Developer**.  
 I am passionate about exploring the vast potentials of **AI, Machine Learning**, and **Data Analytics** to solve real-world problems. My journey in the tech field is driven by curiosity, creativity, and a love for innovation. 🚀
 
 ---
