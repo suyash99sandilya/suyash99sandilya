@@ -37,9 +37,11 @@ I am passionate about exploring the vast potentials of **AI, Machine Learning**,
 - **Overview**: Developed a chatbot leveraging **Hugging Face Transformers** and **AstraDB Vector Stores** for accurate and responsive recommendations.
 - **Highlights**: Implemented semantic search, RAG pipelines, and multi-turn dialogues.
 
-### 🔷 **Netflix Movie Recommendation System**
-- **Overview**: Built a recommendation system to suggest movies based on user preferences using collaborative filtering.
-- **Highlights**: Optimized algorithms for accurate predictions and seamless user experience.
+### 🔷 **Netflix Movie Data Analysis**
+- **Overview**: Performed Exploratory Data Analysis (EDA) & solved problem statements.
+- **Highlights**: Visualization: Creating stunning charts and graphs to present findings.
+- **Insights and conclusion** : key takeaway and actionable findings 
+
 
 ### 🔷 **Cryptocurrency Performance Dashboard**
 - **Overview**: Designed an interactive **Power BI Dashboard** to analyze and visualize the performance of various cryptocurrencies.
